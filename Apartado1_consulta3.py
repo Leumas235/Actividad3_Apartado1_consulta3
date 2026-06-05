@@ -63,7 +63,7 @@ st.set_page_config(
     layout="wide", 
     page_title="Precio por día y municipio",
     menu_items={
-        "About": "Aplicación para consultar los productos de estaciones de Cúllar del día 12/02/2026. Actividad 3, apartado 2, consulta 3 de Tecnologías Emergentes"
+        "About": "Aplicación para consultar los productos de estaciones de Cúllar del día 12/02/2026. Actividad 3, apartado 1, consulta 3 de Tecnologías Emergentes"
     }
 )
 
